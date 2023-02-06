@@ -1,0 +1,11 @@
+#pragma once
+#include <iostream>
+#include <vector>
+#include <math.h>
+#include <string>
+#include <sfml/Graphics.hpp>
+#include <sfml/Audio.hpp>
+#include <SFML/Window.hpp>
+#include "vec2.h"
+#include <sstream>
+#include <algorithm>
